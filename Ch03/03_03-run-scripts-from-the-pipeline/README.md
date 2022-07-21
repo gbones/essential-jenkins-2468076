@@ -1,4 +1,5 @@
 # 03_03 Run scripts from the pipeline
+[![Build Status](http://docjek/buildStatus/icon?job=3_3)](http://docjek/job/3_3/)
 
 Pipelines can be used to call scripts that are stored in a repo along with a Jenkinsfile.
 
